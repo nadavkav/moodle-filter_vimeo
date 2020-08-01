@@ -1,12 +1,6 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: mofet
- * Date: 04/07/2017
- * Time: 13:16
- */
 
-class filter_macamvimeo extends moodle_text_filter
+class filter_vimeo extends moodle_text_filter
 {
     private $regex;
     private $height;

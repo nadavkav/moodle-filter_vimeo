@@ -2,7 +2,7 @@
 Display a video player for Vimeo type URLs.
 
 This plugin is part of a VIMEO package:
-* moodle-repository_vimeo
+* moodle-repository_vimeo (https://github.com/nadavkav/moodle-repository_vimeo)
 * moodle-filter_vimeo
 
 ## Install
